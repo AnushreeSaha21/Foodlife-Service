@@ -128,6 +128,7 @@ html{
 /*client section*/
 #client-section{
     position: relative;
+    z-index: -1;
     /*height: 350px;*/
 }
 #client-section::before{
